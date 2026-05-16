@@ -1,8 +1,4 @@
-# 👋 Matthieu Graziani
-
-## 🧠 Dev IA | Computer Vision
-
----
+# <center>🧠 Dev IA | Computer Vision
 
 ## 💻 Languages & Web Stack
 
@@ -52,51 +48,3 @@
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
 
 ---
-
-## 🚀 Featured Project
-
-### 🧠 🏥 DiagMind.ai — Medical Imaging AI
-
-🌐 Site officiel : https://www.diagmind.fr  
-🔗 GitHub : https://github.com/matthieugraziani/DL-DiagMind.AI.git
-
-Système d’intelligence artificielle pour l’analyse d’imagerie médicale, spécialisé dans l’assistance à l’interprétation de **tumeurs cérébrales**.
-
----
-
-#### 🎯 Objectif
-
-Aider à transformer des images médicales complexes en **insights structurés et exploitables**, via des systèmes d’IA combinant :
-
-- Computer Vision (imagerie médicale)
-- LLM reasoning (analyse et synthèse)
-- RAG (recherche de contexte médical)
-- Interface interactive Streamlit
-
----
-
-#### ⚙️ Stack du projet
-
-- 🧠 Python / Deep Learning
-- 👁 Computer Vision (MRI / brain scans)
-- 🧠 LLMs + RAG
-- 🖥 FastAPI backend
-- 🎛 Streamlit UI
-- 🌐 **https://www.diagmind.fr**
-- 🐳 Docker
-
----
-
-#### ⚠️ Disclaimer
-
-DiagMind.ai est un **système d’aide à l’analyse**, et non un dispositif de diagnostic médical autonome.
-
----
-
-## 🎯 Focus
-
-- Medical Computer Vision
-- AI Decision Support Systems
-- LLM-powered analysis pipelines
-- Streamlit AI applications
-- RAG architectures for knowledge-intensive domains
