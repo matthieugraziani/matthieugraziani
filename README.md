@@ -1,4 +1,4 @@
-# <center>🧠 Dev IA | Computer Vision
+# <p align="center">🧠 Dev IA | Computer Vision</p>
 
 ## 💻 Languages & Web Stack
 
