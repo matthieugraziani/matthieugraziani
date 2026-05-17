@@ -1,5 +1,4 @@
-# <p align="center">Hi there 👋 I'm Matthieu </p>
-# <p align="center">Dev IA | Computer Vision</p>
+# <p align="center">Hi there 👋 I'm Matthieu <br>IA Dev</p>
 
 ## 🧠 Core Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -11,7 +10,6 @@
 ![TCIA](https://img.shields.io/badge/TCIA-red?style=for-the-badge&logo=tcia&logoColor=white)
 ![Data.gouv](https://img.shields.io/badge/Data.gouv.fr-blue?style=for-the-badge&logo=data.gouv.fr&logoColor=white) 
 ![HuggingFace](https://img.shields.io/badge/huggingface-20BEFF?style=for-the-badge&logo=huggingface&logoColor=white)
-
 ---
 
 ## Librairy
