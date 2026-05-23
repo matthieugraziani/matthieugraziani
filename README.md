@@ -1,4 +1,4 @@
-# <p align="center">Hi there 👋 I'm Matthieu <br>IA Dev</p>
+# <p align="center">Hi there 👋 I'm Matthieu <br>AI Developer</p>
 
 ## 🧠 Core Languages
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
@@ -37,7 +37,7 @@
 
 ## ⚙ DevOps / Tools
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Containers](https://img.shields.io/badge/Containers-0db7ed?style=for-the-badge)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-0db7ed?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=for-the-badge&logo=linux&logoColor=white)
