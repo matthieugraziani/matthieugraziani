@@ -58,21 +58,3 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 ![Data.gouv](https://img.shields.io/badge/Data.gouv.fr-000091?style=for-the-badge) 
 
 ---
-
-## 📌 Featured Projects
-
-<!-- Remplacez les liens et titres ci-dessous par vos vrais projets phares -->
-*   **[gpu-performance-lab](https://github.com/matthieugraziani/gpu-performance-lab)**: GPU performance benchmarking and visualization toolkit built with PyTorch, CUDA, Streamlit, and Plotly.
-*   **[benchmark_package_managers](https://github.com/matthieugraziani/benchmark_package_managers)**: Notebooks permettant de mesurer les performances de gestionnaire de paquets.
-- Projet de soutenance Alyra
-  *   **[DiagMind.AI](https://github.com/matthieugraziani/dl-diagmind.ai)**:  Détection de Tumeur Cérébrale
-  *   **[Survical Analysis](https://github.com/matthieugraziani/ml-survival_analysis)**: Analyse de Survie pour des patients atteint de cancer du cerveau.
-
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=matthieugraziani&show_icons=true&theme=radical&count_private=true" alt="Matthieu's GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matthieugraziani&layout=compact&theme=radical" alt="Top Langs" />
-</p>
