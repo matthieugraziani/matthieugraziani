@@ -70,10 +70,6 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 
 ![Streak](https://streak-stats.demolab.com?user=matthieugraziani&theme=tokyonight)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=matthieugraziani&show_icons=true&theme=tokyonight)
-
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=matthieugraziani&layout=compact&theme=tokyonight)
-
 </div>
 
 <p align="center">
