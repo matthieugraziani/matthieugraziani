@@ -68,7 +68,7 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 
 <div align="center">
 
-![Streak](https://streak-stats.demolab.com?user=matthieugraziani&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=matthieugraziani&theme=tokyonight&hide_border=true)
 
 </div>
 
@@ -79,5 +79,10 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 
 ## 🐍 Contribution Snake
 <p align="center">
-<img src="https://raw.githubusercontent.com/matthieugraziani/matthieugraziani/output/github-contribution-grid-snake-dark.svg">
+<picture>
+  <source media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/matthieugraziani/matthieugraziani/output/github-snake-dark.svg">
+  <img alt="github-snake"
+    src="https://raw.githubusercontent.com/matthieugraziani/matthieugraziani/output/github-snake.svg">
+</picture>
 </p>
