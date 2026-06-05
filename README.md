@@ -80,5 +80,7 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 ## 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/matthieugraziani/matthieugraziani/output/github-contribution-grid-snake-dark.svg">
+
+![GitHub Snake](https://github.com/matthieugraziani/matthieugraziani/blob/output/github-snake.svg)
+
 </p>
