@@ -10,7 +10,7 @@
   <a href="mailto:matthieu.graziani007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
 </p>
 
----
+
 
 ## 🚀 About Me
 I am an **AI Developer** passionate about building scalable artificial intelligence applications, processing data pipelines, and optimizing GPU-accelerated computing. 
@@ -19,7 +19,7 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 - ⚙️ Love working with Docker, Kubernetes, and GPU optimization.
 - 💬 Open to collaborations on Open Source AI projects.
 
----
+
 
 ## 🛠 Tech Stack
 
@@ -62,7 +62,7 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
 ![Data.gouv](https://img.shields.io/badge/Data.gouv.fr-000091?style=for-the-badge) 
 
----
+
 
 ## 📊 GitHub Stats
 
@@ -84,3 +84,11 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 ![GitHub Snake](https://github.com/matthieugraziani/matthieugraziani/blob/output/github-snake.svg)
 
 </p>
+
+## 📌 Projets Phares
+
+**Pinned repos :**
+- **[bdpm-database](https://github.com/matthieugraziani/bdpm-database)** — Pipeline ETL + Streamlit (BDPM)
+- **[py-import-checker](https://github.com/matthieugraziani/py-import-checker)** — Outil CLI ultra-utile (recommandé !)
+- **[chess](https://github.com/matthieugraziani/chess)** — Jeu complet avec IA minimax
+- **[dl-diagmind.ai](https://github.com/matthieugraziani/dl-diagmind.ai)** — Détection tumeurs cérébrales (projet Alyra)
