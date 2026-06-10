@@ -47,15 +47,12 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 ## 📊 GitHub Stats
 
 <div align="center">
-
-![Streak](https://streak-stats.demolab.com?user=matthieugraziani&theme=tokyonight)
-
+  <div style="display:flex; justify-content:center; gap:12px; flex-wrap:wrap;">
+  <img src="https://streak-stats.demolab.com?user=matthieugraziani&theme=noctis_minimus" alt="Streak Stats" height="130" />
+  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=matthieugraziani&show_icons=true&include_all_commits=true&count_private=true&theme=noctis_minimus&hide_border=false" alt="GitHub Stats" height="130" />
+  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=matthieugraziani&layout=compact&langs_count=6&theme=noctis_minimus&hide_border=false" alt="Top Languages" height="130" />
+  </div>
 </div>
-
-<p align="center">
-  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api?username=matthieugraziani&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=noctis_minimus&locale=en&hide_border=false&order=1" height="130" alt="GitHub Stats"  />
-  <img src="https://github-readme-stats-blush-delta-26.vercel.app/api/top-langs?username=matthieugraziani&locale=en&hide_title=false&layout=compact&card_width=350&langs_count=6&theme=noctis_minimus&hide_border=false&order=2" height="130" alt="Top Languages"  />
-</p>
 
 ## 🐍 Contribution Snake
 
