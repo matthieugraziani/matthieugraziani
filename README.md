@@ -19,7 +19,35 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 - ⚙️ Love working with Docker, Kubernetes, and GPU optimization.
 - 💬 Open to collaborations on Open Source AI projects.
 
+## 📌 Projets Phares
 
+<table align="center">
+  <tr>
+    <td>
+      <a href="https://github.com/matthieugraziani/bdpm-database">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=bdpm-database&theme=noctis_minimus" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/matthieugraziani/py-import-checker">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=py-import-checker&theme=noctis_minimus" />
+      </a>
+    </td>
+  </tr>
+
+  <tr>
+    <td>
+      <a href="https://github.com/matthieugraziani/chess">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=chess&theme=noctis_minimus" />
+      </a>
+    </td>
+    <td>
+      <a href="https://github.com/matthieugraziani/dl-diagmind.ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=dl-diagmind.ai&theme=noctis_minimus" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 ## 🛠 Tech Stack
 
@@ -62,10 +90,3 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 
 </p>
 
-## 📌 Projets Phares
-
-**Pinned repos :**
-- **[bdpm-database](https://github.com/matthieugraziani/bdpm-database)** — Pipeline ETL + Streamlit (BDPM)
-- **[py-import-checker](https://github.com/matthieugraziani/py-import-checker)** — Outil CLI ultra-utile (recommandé !)
-- **[chess](https://github.com/matthieugraziani/chess)** — Jeu complet avec IA minimax
-- **[dl-diagmind.ai](https://github.com/matthieugraziani/dl-diagmind.ai)** — Détection tumeurs cérébrales (projet Alyra)
