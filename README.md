@@ -29,8 +29,8 @@ I am an **AI Developer** passionate about building scalable artificial intellige
       </a>
     </td>
     <td>
-      <a href="https://github.com/matthieugraziani/py-import-checker">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=py-import-checker&theme=noctis_minimus" />
+      <a href="https://github.com/matthieugraziani/anomaly-detection">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=anomaly-detection&theme=noctis_minimus" />
       </a>
     </td>
   </tr>
@@ -42,8 +42,8 @@ I am an **AI Developer** passionate about building scalable artificial intellige
       </a>
     </td>
     <td>
-      <a href="https://github.com/matthieugraziani/dl-diagmind.ai">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=dl-diagmind.ai&theme=noctis_minimus" />
+      <a href="https://github.com/matthieugraziani/genealogy_ai">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=genealogy_ai&theme=noctis_minimus" />
       </a>
     </td>
   </tr>
