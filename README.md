@@ -94,10 +94,6 @@ I am an **AI Developer** passionate about building scalable artificial intellige
     </td>
   </tr>
 </table>
-Tous les IDs sont vérifiés dans la liste officielle. Si tu préfères d'autres catégories que Testing/Build (ex. Sécurité, Design...), dis-moi ce que tu as en tête et j'ajuste.
-
-
-
 
 ## 📊 GitHub Stats
 
