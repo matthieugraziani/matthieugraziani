@@ -53,37 +53,51 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 
 <table align="center" style="border-collapse: collapse;">
   <tr>
-    <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+    <td width="25%" align="center" style="border: 1px solid #555; padding: 10px;">
 <h3>🌐 Frontend </h3> 
 <img src="https://skillicons.dev/icons?i=html,css,js" /><br><img src="https://skillicons.dev/icons?i=ts,react,nextjs" />
     </td>
-    <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+    <td width="25%" align="center" style="border: 1px solid #555; padding: 10px;">
 <h3>🧠 Backend</h3>
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask" /><br>
 <img src="https://skillicons.dev/icons?i=nodejs,postgres,express" />
     </td>
-    <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+    <td width="25%" align="center" style="border: 1px solid #555; padding: 10px;">
 <h3>🗄️ Databases</h3>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br>
 <img src="https://skillicons.dev/icons?i=sqlite,redis,supabase" />
     </td>
+    <td width="25%" align="center" style="border: 1px solid #555; padding: 10px;">
+<h3>🧪 Testing & QA</h3>
+<img src="https://skillicons.dev/icons?i=selenium,cypress,jest" /><br>
+<img src="https://skillicons.dev/icons?i=postman,vitest,sentry" />
+    </td>
   </tr>
   <tr>
-     <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+     <td width="25%" align="center" style="border: 1px solid #555; padding: 10px;">
 <h3>🔬 Libraries</h3>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /><br>
-<img src="https://skillicons.dev/icons?i=sklearn,regex,matlab" />
+<img src="https://skillicons.dev/icons?i=sklearn,anaconda,regex" />
     </td>
-    <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+    <td width="25%" align="center" style="border: 1px solid #555; padding: 10px;">
 <h3>☁️ DevOps & Cloud</h3>
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" /><br><img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
     </td>
-    <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+    <td width="25%" align="center" style="border: 1px solid #555; padding: 10px;">
 <h3>🛠️ Tools</h3>
 <img src="https://skillicons.dev/icons?i=git,github,vscode" /><br><img src="https://skillicons.dev/icons?i=pycharm,linux,bash" />
     </td>
+    <td width="25%" align="center" style="border: 1px solid #555; padding: 10px;">
+<h3>📦 Build & Package</h3>
+<img src="https://skillicons.dev/icons?i=npm,yarn,pnpm" /><br>
+<img src="https://skillicons.dev/icons?i=webpack,vite,gradle" />
+    </td>
   </tr>
 </table>
+Tous les IDs sont vérifiés dans la liste officielle. Si tu préfères d'autres catégories que Testing/Build (ex. Sécurité, Design...), dis-moi ce que tu as en tête et j'ajuste.
+
+
+
 
 ## 📊 GitHub Stats
 
