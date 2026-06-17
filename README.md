@@ -60,7 +60,7 @@ I am an **AI Developer** passionate about building scalable artificial intellige
     <td width="25%" align="center" style="border: 1px solid #555; padding: 10px;">
 <h3>🧠 Backend</h3>
 <img src="https://skillicons.dev/icons?i=python,fastapi,flask" /><br>
-<img src="https://skillicons.dev/icons?i=nodejs,postgres,express" />
+<img src="https://skillicons.dev/icons?i=nodejs,django,express" />
     </td>
     <td width="25%" align="center" style="border: 1px solid #555; padding: 10px;">
 <h3>🗄️ Databases</h3>
