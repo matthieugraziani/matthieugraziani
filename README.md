@@ -51,26 +51,39 @@ I am an **AI Developer** passionate about building scalable artificial intellige
 
 ## 🛠 Tech Stack
 
-### 🧠 Core Languages & Backend
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white)
-
-### 🔬 AI, Data & Libraries
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?logo=pandas&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?logo=scikit-learn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white)
-
-### ⚡ GPU & Hardware Acceleration
-![CUDA](https://img.shields.io/badge/CUDA-76B900?logo=nvidia&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white)
-
-### ⚙️ DevOps & MLOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?logo=github-actions&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
-
+<table align="center" style="border-collapse: collapse;">
+  <tr>
+    <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+<h3>🌐 Frontend </h3> 
+<img src="https://skillicons.dev/icons?i=html,css,js" /><br><img src="https://skillicons.dev/icons?i=ts,react,nextjs" />
+    </td>
+    <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+<h3>🧠 Backend</h3>
+<img src="https://skillicons.dev/icons?i=python,fastapi,flask" /><br>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,express" />
+    </td>
+    <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" /><br>
+<img src="https://skillicons.dev/icons?i=sqlite,redis,supabase" />
+    </td>
+  </tr>
+  <tr>
+     <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+<h3>🔬 Libraries</h3>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" /><br>
+<img src="https://skillicons.dev/icons?i=sklearn,regex,matlab" />
+    </td>
+    <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+<h3>☁️ DevOps & Cloud</h3>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,githubactions" /><br><img src="https://skillicons.dev/icons?i=aws,azure,gcp" />
+    </td>
+    <td width="33%" align="center" style="border: 1px solid #555; padding: 10px;">
+<h3>🛠️ Tools</h3>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" /><br><img src="https://skillicons.dev/icons?i=pycharm,linux,bash" />
+    </td>
+  </tr>
+</table>
 
 ## 📊 GitHub Stats
 
