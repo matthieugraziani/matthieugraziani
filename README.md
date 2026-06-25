@@ -1,4 +1,4 @@
-# <p align="center">Hi there 👋 I'm Matthieu</p>
+# <p align="center">Hi there 👋 I'm Matthew</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=matthieugraziani&label=Profile+Views" />
   <img src="https://img.shields.io/github/followers/matthieugraziani?style=social" />
