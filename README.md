@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/github/followers/matthieugraziani?style=social" />
 </p>
 
-<p align="center"><strong>AI Developer / Data Engineer / Data Scientist / Self-Taught</strong></p>
+<p align="center"><strong>AI Developer / Python Developer / Data Engineer / Data Scientist / Builder No-Code / Self-Taught</strong></p>
 <p align="center">
   <a href="https://www.linkedin.com/in/matthieu-graziani-4190b526b/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:matthieu.graziani007@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
