@@ -25,12 +25,12 @@ I am an **AI Developer** passionate about building scalable artificial intellige
   <tr>
     <td>
       <a href="https://github.com/matthieugraziani/bdpm-database">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=bdpm-database&theme=noctis_minimus" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=bdpm-database&theme=noctis_maximus" />
       </a>
     </td>
     <td>
       <a href="https://github.com/matthieugraziani/anomaly-detection">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=anomaly-detection&theme=noctis_minimus" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=matthieugraziani&repo=anomaly-detection&theme=noctis_maximus" />
       </a>
     </td>
   </tr>
